@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
 https://iptv-org.github.io/iptv/index.m3u
-https://tv.cctv.com/live/
+https://live.ottiptv.cc/iptv.m3u?userid=663833360&sign=58a3208497b41f2741ac241b008ab635b2abb58f64529f00b9667f5d497f01d38da6e0707d8d8291fa3654cceb30e7277b2e556e0e442f387feaf9f706f76f4ff186091b8f33&auth_token=52b5c9ef176d2a3931e9f7777f4ded7f
 
 
 
