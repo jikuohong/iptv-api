@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jikuohong/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-17 18:47:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-18 06:33:10
 https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=663833360&sign=bf3eead0289ff21c28780b320a6bf1be6941b09defb4aa505bb528475f7bba6b00f7ef23608c15fc35820b62d3a587af3d2ff9b52f960fe426c5e52caa78efe94910f9c6cbc8df028b45bc18886a6af3&auth_token=52b5c9ef176d2a3931e9f7777f4ded7f
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=663833360&sign=bf3eead0289ff21c28780b320a6bf1be6941b09defb4aa505bb528475f7bba6b00f7ef23608c15fc35820b62d3a587af3d2ff9b52f960fe426c5e52caa78efe94910f9c6cbc8df028b45bc18886a6af3&auth_token=52b5c9ef176d2a3931e9f7777f4ded7f
